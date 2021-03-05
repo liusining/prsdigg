@@ -1,0 +1,2 @@
+(self.webpackChunkprsdigg=self.webpackChunkprsdigg||[]).push([[4833],{44833:function(){var s=Prism.util.clone(Prism.languages.typescript);Prism.languages.tsx=Prism.languages.extend("jsx",s)}}]);
+//# sourceMappingURL=4833-d0ad88c17e930426de5b.chunk.js.map

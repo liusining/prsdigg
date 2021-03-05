@@ -1,0 +1,2 @@
+(self.webpackChunkprsdigg=self.webpackChunkprsdigg||[]).push([[9425],{89425:function(){Prism.languages.insertBefore("php","variable",{this:/\$this\b/,global:/\$(?:_(?:SERVER|GET|POST|FILES|REQUEST|SESSION|ENV|COOKIE)|GLOBALS|HTTP_RAW_POST_DATA|argc|argv|php_errormsg|http_response_header)\b/,scope:{pattern:/\b[\w\\]+::/,inside:{keyword:/static|self|parent/,punctuation:/::|\\/}}})}}]);
+//# sourceMappingURL=9425-909f23e9179bec23e9a5.chunk.js.map

@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 a00b27ce02d4df7db3a38084f560e201ff5a2ff1 runner <runner@fv-az102-223.fxaqdhzuhbaure1jxf5iq2ecud.bx.internal.cloudapp.net> 1614955128 +0000	fetch --no-tags --prune --progress --no-recurse-submodules --depth=1 origin +a00b27ce02d4df7db3a38084f560e201ff5a2ff1:refs/remotes/origin/master: storing ref

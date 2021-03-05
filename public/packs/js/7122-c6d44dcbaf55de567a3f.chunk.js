@@ -1,0 +1,2 @@
+(self.webpackChunkprsdigg=self.webpackChunkprsdigg||[]).push([[7122],{47122:function(){var g;(g=Prism).languages.ignore={comment:/^#.*/m,entry:{pattern:/\S(?:.*(?:(?:\\ )|\S))?/,alias:"string",inside:{operator:/^!|\*\*?|\?/,regex:{pattern:/(^|[^\\])\[[^\[\]]*\]/,lookbehind:!0},punctuation:/\//}}},g.languages.gitignore=g.languages.ignore,g.languages.hgignore=g.languages.ignore,g.languages.npmignore=g.languages.ignore}}]);
+//# sourceMappingURL=7122-c6d44dcbaf55de567a3f.chunk.js.map
